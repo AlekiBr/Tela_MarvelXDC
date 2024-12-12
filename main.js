@@ -5,9 +5,9 @@ jQuery(document).ready(function($){
 
         $('h1').text('Exterminador');
     });
-
+    
     $(document).on('click', '.next-btn.active', function(){
 
-        $('h1').text('DEEDPOOL');
-    });
+        $('h1').text('DEADPOOL');
+    });  
 });
